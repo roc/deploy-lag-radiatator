@@ -24,6 +24,10 @@
         "owner": "alphagov"
     },
     {
+        "name": "performanceplatform-collector-config",
+        "owner": "alphagov"
+    },
+    {
         "name": "performanceplatform-notifier",
         "owner": "alphagov"
     }
